@@ -9,10 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaishnavi-ralegaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-ralegaonkar" height="30" width="40" /></a>
-<a href="https://codesandbox.com/vaishnavir99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vaishnavir99" height="30" width="40" /></a>
-<a href="https://fb.com/vaishnavi ralegaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaishnavi ralegaonkar" height="30" width="40" /></a>
-<a href="https://instagram.com/vaishnavi ralegaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaishnavi ralegaonkar" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/vaishnavi ralegaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="vaishnavi ralegaonkar" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
