@@ -16,7 +16,7 @@
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: ralegaonkarvaishnavi@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/VaishnaviR99).
-- 💻 &nbsp; My portfolio : (https://github.com/VaishnaviR99).
+- 💻 &nbsp; My portfolio : (Portfolio](https://vaishnavir99.github.io/)).
 
 
 <h2 align="left">Connect with me:</h2>
