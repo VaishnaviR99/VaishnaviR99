@@ -21,12 +21,24 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/vaishnavi-ralegaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-ralegaonkar" height="30" width="40" /></a>
+  <a href = "www.linkedin.com/in/vaishnaviR31"><img src="https://camo.githubusercontent.com/fd5eb9cf30ac1522d31d72a771f662d31028f610cd3c4f54daf8e23eebb26775/68747470733a2f2f636c69706c792e636f2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f3337323130323035305f4c494e4b4544494e5f49434f4e5f5452414e53504152454e545f313038302e676966" height="60px" data-canonical-src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<!-- <a href="https://linkedin.com/in/vaishnavi-ralegaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-ralegaonkar" height="30" width="40" /></a> -->
 
 </p>
 
 <h2 align="left">Tech Stack:</h2>
-<p align="left">  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> </p>
+<p align="center">  
+    <a style="padding-right:8px;" href="https://html.com/" target="_blank"> <img width="60px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img height="60px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png"/> </a> 
+    <a href="https://www.javascript.com/" target="_blank"> <img height="60px" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/></a><a href="https://reactjs.org/" target="_blank"> <img height="60px" width="60px" src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270"/></a>
+    <a style="padding-right:8px;" href="https://nodejs.org/en/" target="_blank"><img height="60px" src="https://camo.githubusercontent.com/bb12151c6b0cad592b4b7449df388a6db7aa7ceae45ef7cc03c9d4cab56dc90e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270"/> </a>
+<!--     <a style="padding-right:8px;" href="https://getbootstrap.com/" target="_blank"> <img height="60px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"/></a> -->
+    <a style="padding-right:8px;" href="https://www.java.com/en/" target="_blank"> <img height="60px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"/></a>
+<!--     <a style="padding-right:8px;" href="[https://www.google.com/sheets/about/](https://www.typescriptlang.org/)" target="_blank"> <img height="60px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png"/></a> -->
+    <a style="padding-right:8px;" href="https://www.mongodb.com/home" target="_blank"> <img height="60px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg"/></a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png" alt="express" height="60px"/> </a>
+ 
+</p> 
 
 <h2 align="left">GitHub Stats:</h2>
 <p align="center"><img align="center" width="90%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviR99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="VaishnaviR99" /></p>
