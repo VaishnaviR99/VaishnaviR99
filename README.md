@@ -21,7 +21,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a href = "[www.linkedin.com/in/vaishnaviR31](https://www.linkedin.com/in/vaishnavi-ralegaonkar-7680bb159/)"><img src="https://camo.githubusercontent.com/fd5eb9cf30ac1522d31d72a771f662d31028f610cd3c4f54daf8e23eebb26775/68747470733a2f2f636c69706c792e636f2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f3337323130323035305f4c494e4b4544494e5f49434f4e5f5452414e53504152454e545f313038302e676966" height="60px" data-canonical-src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+  <a href = "www.linkedin.com/in/vaishnavir31/)"><img src="https://camo.githubusercontent.com/fd5eb9cf30ac1522d31d72a771f662d31028f610cd3c4f54daf8e23eebb26775/68747470733a2f2f636c69706c792e636f2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f3337323130323035305f4c494e4b4544494e5f49434f4e5f5452414e53504152454e545f313038302e676966" height="60px" data-canonical-src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 <!-- <a href="https://linkedin.com/in/vaishnavi-ralegaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-ralegaonkar" height="30" width="40" /></a> -->
 
 </p>
