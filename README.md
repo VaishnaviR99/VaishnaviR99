@@ -15,7 +15,7 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/VaishnaviR99).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: ralegaonkarvaishnavi@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1R3gQF1bFd3wIoFZxpp0mb2W6-Rj0I61L/view?usp=share_link).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1hDdZhOaCwaTvfXES7aVhgip0EX-xRxH1/view?usp=sharing).
 - 💻 &nbsp; Checkout my [Portfolio](https://vaishnavir99.github.io/).
 
 
